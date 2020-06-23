@@ -13,4 +13,5 @@ Welcome!
 ### Contact Info
 
 Twitter: [@SolderSWAG](https://twitter.com/SolderSwag)
+
 LinkedIn: [/in/brandondevault/](https://www.linkedin.com/in/brandondevault/)
